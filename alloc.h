@@ -3,7 +3,7 @@
 
 struct alloc_state;
 struct tree;
-struct commit;
+struct commit;   
 struct tag;
 struct repository;
 
